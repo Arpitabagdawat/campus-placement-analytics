@@ -1,5 +1,3 @@
-# campus-placement-analytics
-
 # Campus Placement Analytics 📊
 
 An end-to-end data analytics project to analyze college campus placement trends using Python (Jupyter Notebook) and Power BI.
@@ -32,7 +30,7 @@ Features include:
 - Finance specialization has slightly higher average salary than HR
 
 ## 🖼️ Dashboard Preview
-(Add your dashboard screenshot here)
+((https://github.com/Arpitabagdawat/campus-placement-analytics/blob/main/Screenshot1.png))
 
 ## 🚀 How to Use
 1. Open the Jupyter Notebook to see data cleaning and analysis steps.
@@ -44,5 +42,5 @@ Features include:
 - Add more KPIs and drill-through pages in Power BI
 
 ## 👩‍💻 Author
-Your Name  
-(LinkedIn/GitHub link – optional)
+Arpita Bagdawat  
+
