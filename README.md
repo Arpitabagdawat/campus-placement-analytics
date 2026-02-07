@@ -11,7 +11,11 @@ This project analyzes student academic performance, work experience, and special
 The final output is an interactive Power BI dashboard for insights and storytelling.
 
 ## 📁 Dataset
-Source: Kaggle – Campus Placement Dataset  
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Placement_data](https://www.kaggle.com/datasets/barkhaverma/placement-data-full-class)
+
 Features include:
 - Gender, SSC %, HSC %, Degree %, MBA %
 - Work experience
