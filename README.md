@@ -48,3 +48,8 @@ Features include:
 ## 👩‍💻 Author
 Arpita Bagdawat  
 
+GitHub: [https://github.com/your-username](https://github.com/Arpitabagdawat)
+
+LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arpita-b-66a996292/)
+
+
